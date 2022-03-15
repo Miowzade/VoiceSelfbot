@@ -9,7 +9,7 @@ npm i discord.js-selfbot
 npm i discord.js-self
 4.Put Your Token in File
 5.start!
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
 Replit
 1.Import Project To Github
 2.Go To Secret
